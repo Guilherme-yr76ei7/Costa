@@ -1,5 +1,5 @@
-Boas vindas ao meu perfil 💙💙
-Meu nome é Guilherme COsta 
+Boas vindas ao meu perfil 
+Meu nome é Guilherme Costa 
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
